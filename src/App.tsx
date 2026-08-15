@@ -1,8 +1,11 @@
-import Message from "./message";
+import Card from "./Card";
 function App() {
   return (
     <div>
-      <Message></Message>
+      <Card />
+      <Card />
+      <Card />
+      <Card />
     </div>
   );
 }
